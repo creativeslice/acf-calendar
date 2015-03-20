@@ -1,2 +1,2 @@
-# acf-calendar
-WordPress ACF-based Calendar
+ACF CALENDAR
+=========================
